@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="shop">Shop</string>
+    <string name="shop_everything">Shop Everything</string>
+    <string name="electronics">Electronics</string>
+    <string name="beauty">Beauty</string>
+    <string name="groceries">Groceries</string>
+    <string name="medicine">Medicine</string>
+    <string name="home_appliances">Home Appliances</string>
+    <string name="clothing">Clothing</string>
+    <string name="trousers">Trousers</string>
+    <string name="tshirts">TShirts</string>
+    <string name="sharee">Sharee</string>
+    <string name="kids_section">Kids Section</string>
+    <string name="washing_machine">Washing Machine</string>
+    <string name="ac">AC</string>
+
+</resources>
